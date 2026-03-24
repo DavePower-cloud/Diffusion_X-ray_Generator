@@ -112,5 +112,5 @@ Provides a clean, modular implementation for experimentation and extension
 
 ## 👤 Author
 
-David Power
+David Power \
 University College Cork 
