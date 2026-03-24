@@ -30,7 +30,7 @@ The pipeline includes:
 
 ## 🧱 Repository Structure  
 
-```text
+
 src/
   config.py
   data.py
@@ -45,7 +45,7 @@ notebooks/
 
 ---
 
-🚀 Quick Start
+## 🚀 Quick Start
 
 Install dependencies:
 - pip install -r requirements.txt
@@ -58,7 +58,7 @@ Generate X-ray images from a trained model:
 
 ---
 
-📊 Features
+## 📊 Features
 Diffusion-based generative modelling (DDPM-style)
 Sinusoidal timestep embeddings
 U-Net denoising architecture
@@ -68,22 +68,27 @@ Reproducible training and generation scripts
 
 ---
 
-⚠️ Dataset
 
-The dataset is not included in this repository due to ethical, licensing, and data governance constraints.
+## ⚠️ Dataset  
 
-Expected structure:
+The dataset is not included in this repository, but is publicly available on Kaggle under an MIT license:  
 
-data/
-  chest_xray/
-    train/
-      NORMAL/
+👉 https://www.kaggle.com/datasets/divyam6969/chest-xray-pneumonia-dataset
 
-Users must obtain the dataset independently (e.g., publicly available chest X-ray datasets) and place it in the expected directory structure.
+Expected structure:  
+
+data/  
+  chest_xray/  
+    train/  
+      bacterial_pneumonia/  
+      viral_pneumonia/
+      fungal_pneumonia
+
+After downloading, place the dataset in the `data/` directory as shown above.  
 
 ---
 
-📖 Acknowledgements
+## 📖 Acknowledgements
 
 Parts of this implementation are adapted from diffusion model examples presented in Foster Generative AI by David Foster, originally applied to natural image datasets (e.g., flowers).
 
@@ -91,13 +96,13 @@ This repository extends and modifies those approaches for medical imaging applic
 
 ---
 
-📚 Reference
+## 📚 Reference
 
 Foster, D. Generative Deep Learning. 2nd Ed. O’Reilly Media.
 
 ---
 
-🧠 Key Contribution
+## 🧠 Key Contribution
 
 Demonstrates application of diffusion models to medical image generation
 Translates generative AI methods from natural images to healthcare
@@ -105,7 +110,7 @@ Provides a clean, modular implementation for experimentation and extension
 
 ---
 
-👤 Author
+## 👤 Author
 
 David Power
 University College Cork 
