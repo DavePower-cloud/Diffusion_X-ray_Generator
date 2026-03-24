@@ -77,12 +77,12 @@ The dataset is not included in this repository, but is publicly available on Kag
 
 Expected structure:  
 
-data/  
-  chest_xray/  
-    train/  
-      bacterial_pneumonia/  
-      viral_pneumonia/
-      fungal_pneumonia
+data/ \
+└── chest_xray/ \
+└── train/ \
+└──bacterial_pneumonia \
+└──viral_pneumonia \
+└──fungal_pneumonia
 
 After downloading, place the dataset in the `data/` directory as shown above.  
 
