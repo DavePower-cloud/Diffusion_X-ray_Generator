@@ -28,6 +28,22 @@ The pipeline includes:
 
 ---
 
+## 🖼️ Sample Outputs  
+
+Output following 1 epoch:
+![Generated X-rays1](cxr_epoch1.PNG)
+
+Output following 25 epochs:
+![Generated X-rays25](cxr_epoch25.PNG)
+
+Output following 50 epochs:
+![Generated X-rays50](cxr_epoch50.PNG)
+
+Output following 100 epochs:
+![Generated X-rays100](cxr_epoch100.PNG)
+
+---
+
 ## 🧱 Repository Structure  
 
 
