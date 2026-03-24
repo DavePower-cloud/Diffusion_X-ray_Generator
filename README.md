@@ -8,7 +8,7 @@ Diffusion-based generative model for synthesising chest X-ray images using a 3D 
 ![Status](https://img.shields.io/badge/Status-Research%20Prototype-yellow)  
 ![Domain](https://img.shields.io/badge/Domain-Medical%20Imaging-lightgrey)  
 ![Model](https://img.shields.io/badge/Model-Diffusion%20Model-purple)  
-![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--025--96336--5-blue)  
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--025--96336--5-blue)](https://doi.org/10.1038/s41598-025-96336-5) 
 ---
 
 ## 📌 Overview  
@@ -31,16 +31,16 @@ The pipeline includes:
 ## 🧱 Repository Structure  
 
 
-src/
-  config.py
-  data.py
-  diffusion.py
-  model.py
-  train.py
-  generate.py
+src/\
+  config.py\
+  data.py\
+  diffusion.py\
+  model.py\
+  train.py\
+  generate.py\
   utils.py
 
-notebooks/
+notebooks/\
   demo_generation.ipynb
 
 ---
