@@ -128,5 +128,8 @@ Provides a clean, modular implementation for experimentation and extension
 
 ## 👤 Author
 
-David Power \
-University College Cork 
+**David Power**  
+Healthcare Simulation Specialist | MSc Artificial Intelligence  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/dave-power-47280a44/  
+- 💻 GitHub: https://github.com/DavePower-cloud
