@@ -1,4 +1,4 @@
-# 🩻 Diffusion X-Ray Generator  
+# 🧠  Diffusion X-Ray Generator  
 
 Diffusion-based generative model for synthesising chest X-ray images using a 3D U-Net-style architecture and sinusoidal noise embeddings.  
 
